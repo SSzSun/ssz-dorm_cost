@@ -4,10 +4,3 @@ export default function ChatlistBox() {
     <div>ChatlistBox</div>
   )
 }
-
-
-export default function ChatlistBox() {
-  return (
-    <div>ChatlistBox</div>
-  )
-}
